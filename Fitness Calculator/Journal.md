@@ -7,5 +7,5 @@ I placed the script tag at the bottom section of the body. I coded it there so t
 Entering text instead of numbers into a prompt, the program will show a NaN because the text can not be converted into a number. This shows that JavaScript needs a valid numberical input to perform calculations.
 
 ## Phase 3
-
+I put string togeher by using the + operator to combine text, user's name, and total volume. Another way to do it is using ${}and using template literal(like, ' ' ) with // is another way 
 
