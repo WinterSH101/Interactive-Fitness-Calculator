@@ -1,6 +1,12 @@
 console.log("Script Loaded")
 let userName ="Madison";
 alert("Hello,"+ userName + "!");
+let weightLifted = Number (prompt("Enter the weight lifted:"));
+let repsPerformed = Number(prompt("Enter the number of reps performed"));
+let totalVolume = weightLifted * repsPerformed
+console.log("Total Volume:" + totalVolume);
+
+
 
 
 
